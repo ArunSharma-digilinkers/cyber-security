@@ -1011,3 +1011,92 @@ font-size:18px;
 	}
 
 }
+
+
+/* Mobile */
+@media (max-width: 767px) {
+
+.navbar .navbar-brand .logo-img {
+    width: 70px;
+}
+
+.mrt20 {
+    margin-top: 20px;
+}
+
+.mrt30 {
+    margin-top: 30px;
+}
+
+.mrt50 {
+    margin-top: 50px !important;
+} 
+
+.mrb20 {
+    margin-bottom: 20px;
+}
+
+.mrb30 {
+    margin-bottom: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.mission-box .mission-img-wrap img {
+    width: 150px;
+}
+
+/* FIXED */
+.hm2-cta-wrapper .cta-box h3 {
+    color: #fff;
+    font-size: 32px;
+}
+
+.hm2-cta-wrapper .cta-box p {
+    font-size: 18px;
+}
+
+.info-section .info-box {
+    border: none;
+}
+
+.about-banner-box {
+    padding: 75px 0px !important;
+}
+
+.about-banner-box h3 {
+    font-size: 30px !important;
+}
+
+.process-wrapper .process-heading-box {
+    padding: 10px;
+}
+
+.ab3-cta-section {
+    padding: 50px 30px !important;
+}
+
+
+.ab3-mission-wrapper .mission-wrap {
+    margin-top: 5px !important;
+}
+
+.service-banner-box {
+   padding: 75px 0;
+}
+
+.service-banner-box h3 {
+    font-size: 30px;
+}
+
+.contact-banner-box {
+   padding: 75px 0 !important;
+}
+
+.contact-banner-box h3 {
+    font-size: 30px !important;
+}
+
+}

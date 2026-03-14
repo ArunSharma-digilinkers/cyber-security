@@ -80,7 +80,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="btn-1">
+                                <div class="btn-1 mrb30">
                                     <a href="">Read More</a>
                                 </div>
                             </div>
@@ -100,17 +100,17 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-12">
-                        <div class="count-box">
+                        <div class="count-box mrb30">
                             <h4><span>150+</span><br>Security Experts</h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-12">
-                        <div class="count-box">
+                        <div class="count-box mrb30">
                             <h4><span>10K+</span><br>Threats Prevented</h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-12">
-                        <div class="count-box">
+                        <div class="count-box mrb30">
                             <h4><span>3K+</span><br>Businesses Protected</h4>
                         </div>
                     </div>
@@ -180,7 +180,7 @@
 								Behind every secure system is a team of skilled security experts working around the clock. Our specialists analyze risks, monitor networks, and respond to threats using advanced technologies and proven strategies. With a strong focus on innovation and protection, our team ensures your digital environment remains safe and resilient.
 							</p>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12">
+						<div class="col-lg-3 col-md-3 col-sm-12 mrb30">
 							<div class="team-card"> 
 								<div class="team-image">
 									<img src="img/team-1.jpg" alt="Carls Jhons" class="img-fluid">
@@ -197,7 +197,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12">
+						<div class="col-lg-3 col-md-3 col-sm-12 mrb30">
 							<div class="team-card">
 								<div class="team-image">
 									<img src="img/team-2.jpg" alt="Arling Tracy" class="img-fluid">
@@ -214,7 +214,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12">
+						<div class="col-lg-3 col-md-3 col-sm-12 mrb30">
 							<div class="team-card">
 								<div class="team-image">
 									<img src="img/team-3.jpg" alt="Mark Web" class="img-fluid">

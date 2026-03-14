@@ -21,7 +21,7 @@
         <div class="ab-info-wrapper section-entry">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-5 col-md-5 col-sm-12">
+                    <div class="col-lg-5 col-md-5 col-sm-12 mrb30">
                         <div class="hm2-info-img-wrap">
                            <img src="img/ab-info-img.jpg" class="img-fluid br15">
                         </div>
@@ -36,7 +36,7 @@
 
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12 mb-4">
-                                <div class="info-box">
+                                <div class="info-box mrb30">
                                     <h6>Real-Time Security Intelligence</h6>
                                     <p>
                                         We continuously analyze network activity to detect unusual behavior and prevent cyber attacks instantly.
@@ -131,7 +131,7 @@
 								Behind every secure system is a team of skilled security experts working around the clock. Our specialists analyze risks, monitor networks, and respond to threats using advanced technologies and proven strategies. With a strong focus on innovation and protection, our team ensures your digital environment remains safe and resilient.
 							</p>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12">
+						<div class="col-lg-3 col-md-3 col-sm-12 mrb30">
 							<div class="team-card"> 
 								<div class="team-image">
 									<img src="img/team-1.jpg" alt="Carls Jhons" class="img-fluid">
@@ -148,7 +148,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12">
+						<div class="col-lg-3 col-md-3 col-sm-12 mrb30">
 							<div class="team-card">
 								<div class="team-image">
 									<img src="img/team-2.jpg" alt="Arling Tracy" class="img-fluid">
@@ -165,7 +165,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12">
+						<div class="col-lg-3 col-md-3 col-sm-12 mrb30">
 							<div class="team-card">
 								<div class="team-image">
 									<img src="img/team-3.jpg" alt="Mark Web" class="img-fluid">

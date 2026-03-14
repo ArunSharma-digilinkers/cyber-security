@@ -103,7 +103,7 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="col-lg-8 col-md-8 col-sm-12 mrt30">
                         <div class="service-txt-box">
                             <h5>Advanced Data Protection Services</h5>
                             <h3>Safeguard your sensitive data with proactive security and reliable protection strategies.</h3>

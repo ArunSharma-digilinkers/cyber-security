@@ -102,7 +102,7 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="col-lg-8 col-md-8 col-sm-12 mrt30">
                         <div class="service-txt-box">
                             <h5>Comprehensive Cybersecurity Services</h5>
                             <h3>Protect your systems, data, and digital assets with proactive security solutions.</h3>

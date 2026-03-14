@@ -32,12 +32,12 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-lg-5 col-md-5 col-sm-12">
+                    <div class="col-lg-5 col-md-5 col-sm-12 mrb30">
                         <img src="img/hm2-info-img.jpg" class="img-fluid br15">
                     </div>
                     <div class="col-lg-7 col-lg-7 col-sm-12">
                         <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-12">
+                            <div class="col-lg-6 col-md-6 col-sm-12 mrb30">
                                 <div class="hm-info-box">
                                     <h4>Threat Detection</h4>
                                     <p>
@@ -55,7 +55,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-12">
+                            <div class="col-lg-6 col-md-6 col-sm-12 mrb30">
                                 <div class="hm-info-box-2">
                                     <h4>Vulnerability Assessment</h4>
                                     <p>
@@ -140,7 +140,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5 col-md-5 col-sm-12">
+                    <div class="col-lg-5 col-md-5 col-sm-12 mrt20">
                         <img src="img/hm2-what-img.jpg" class="img-fluid br15">
                     </div>
                 </div>

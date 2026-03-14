@@ -38,7 +38,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-12 mt-4">
-                                <div class="ab3-info-box">
+                                <div class="ab3-info-box mrb20">
                                     <div class="icon">
                                         <img src="img/why-icon-2.png" class="img-fluid">
                                     </div>
@@ -64,7 +64,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-12 mt-4">
-                                <div class="ab3-info-box">
+                                <div class="ab3-info-box mrb20">
                                     <div class="icon">
                                         <img src="img/why-icon-4.png" class="img-fluid">
                                     </div>
@@ -76,7 +76,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="col-lg-6 col-md-6 col-sm-12 mrt20">
                         <h3>Secure Your Digital World with Advanced Cybersecurity</h3>
                         <p>
                             Our cybersecurity experts provide proactive protection, real-time monitoring, and advanced threat detection to safeguard your networks, systems, and sensitive data. Stay one step ahead of cyber attacks with security solutions designed for modern businesses.We help organizations defend against cyber threats through intelligent monitoring, threat detection, and proactive security strategies. Our experts ensure your digital environment remains secure, resilient, and ready for the challenges of tomorrow.

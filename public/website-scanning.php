@@ -103,7 +103,7 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="col-lg-8 col-md-8 col-sm-12 mrt30">
                         <div class="service-txt-box">
                             <h5>Comprehensive Website Security Scanning</h5>
                             <h3>Continuous scanning to keep your website secure.</h3>

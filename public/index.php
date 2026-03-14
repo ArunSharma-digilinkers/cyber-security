@@ -33,7 +33,7 @@
                             <i class="fa fa-check" aria-hidden="true"></i>
                             <p class="ab-points">Network & Cloud Security Solutions</p>
                         </div>
-						<div class="btn-1">
+						<div class="btn-1 mrb30">
 							<a href="">Read More</a>
 						</div>
 					</div>
@@ -123,7 +123,7 @@
 		<div class="why-choose-wrapper section-entry">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-5 col-md-5 col-sm-12">
+					<div class="col-lg-5 col-md-5 col-sm-12 mrb30">
                         <img src="img/why-choose-img.jpg" class="img-fluid br15">
 					</div>
 					<div class="col-lg-7 col-md-7 col-sm-12">
